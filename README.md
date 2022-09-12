@@ -23,11 +23,11 @@ python main.py
 ```
 
 ## code structure:
- all import are listed in : 
- neeed_imports.py 
+ ````all import are listed in : 
+ ````neeed_imports.py```` 
  functions are defined in : 
- functions.py
+ ````functions.py````
  data manipulation : 
- data_prep.py
+ ````data_prep.py````
  these py files are executed within:
- main.py
+ ````main.py````
