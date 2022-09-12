@@ -11,8 +11,8 @@ The input data file is retrieved from the WHO wbesite
 You need `python>3.5` to run this script.
 
 The project depends on the `pandas` library, as well as `dash' install it with pip:
-`pip install pandas`
-`pip install dash`
+
+`pip install pandas` and `pip install dash`
 
 
 ### How to run?
